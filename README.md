@@ -18,4 +18,4 @@ Get Your Location
 
 Watch the video below to learn how to use the extension:
 
-[![Watch the video](link-to-your-video-thumbnail-image)](https://gemoo.com/tools/upload-video/share/554848969819398144?codeId=DGqBEmm6NJNNY&card=554848965167915008&origin=videolinkgenerator)
+[![Watch the video](https://i.ibb.co/KN35jSJ/Screenshot-from-2023-08-28-23-43-53.png)](https://gemoo.com/tools/upload-video/share/554848969819398144?codeId=DGqBEmm6NJNNY&card=554848965167915008&origin=videolinkgenerator)
